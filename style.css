@@ -1,4 +1,5 @@
-body { font-family: sans-serif; padding: 0; margin: 0; border:15px solid #87C540; height: calc(100vh - 100px); margin: 20px; }
+
+body { font-family: sans-serif; padding: 0; margin: 0; border:15px solid #87C540; height: calc(100vh - 100px); margin: 20px; padding: 30px;}
 .container	{ width: 1130px; margin: 0 auto; }
 h3 { color: #ffca00 }
 
